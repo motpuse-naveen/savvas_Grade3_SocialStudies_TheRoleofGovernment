@@ -313,7 +313,7 @@ body, html {
 .card-body-thumb {
     text-align: center;
     padding: 10px 0px;
-    height: 70px;
+    height: 90px;
     line-height: 1.5em;
     overflow: hidden;
 }
@@ -1197,7 +1197,7 @@ a.graylink{
   
     to {
       /* left: auto; */
-      height: 70px;
+      height: 90px;
     }
   }
   
